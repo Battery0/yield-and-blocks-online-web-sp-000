@@ -8,7 +8,7 @@ def hello_t(array)
       end
     array
   else
-    puts
+    puts 
 end
 
 # call your method here!
